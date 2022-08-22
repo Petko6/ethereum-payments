@@ -14,11 +14,11 @@
   "devDependencies": {
     "async": "^2.5.0",
     "chai": "^3.5.0",
-    "mocha": "^3.0.2",
-    "standard": "^8.5.0"
+    "mocha": "^10.0.0",
+    "standard": "^17.0.0"
   },
   "dependencies": {
-    "bitcore-lib": "^0.14.0",
+    "bitcore-lib": "^8.25.36",
     "elliptic": "^6.4.0",
     "ethereum-address": "0.0.4",
     "ethereumjs-util": "^5.1.2"
