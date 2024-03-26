@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "bitcore-lib": "^8.25.36",
-    "elliptic": "^6.4.0",
+    "elliptic": "^6.5.5",
     "ethereum-address": "0.0.4",
     "ethereumjs-util": "^5.1.2"
   },
